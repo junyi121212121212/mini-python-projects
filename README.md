@@ -1,4 +1,4 @@
-# miniprojects
+# Mini Python Projects
 
 Simple mini projects that I have collected from the internet over the years. This is not high-level stuff, but things that are interesting to me. Enjoy!
 
