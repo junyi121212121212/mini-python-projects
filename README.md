@@ -6,8 +6,15 @@ Simple mini projects that I have collected from the internet over the years. Thi
 
 ## 📦 Projects
 
+- Captcha Creation
+- Card Counting
+- Converting images to other type of art
+- PDF Tinkering
+- QR code generation
+- Similarity check
 - Python weather GUI
-- (Add more project names here as you expand!)
+- Simple Webscraping
+- Ball game with physics using Pygame
 
 ---
 
@@ -30,5 +37,6 @@ To create a new environment using Anaconda Prompt:
    ```
 
 ---
+
 
 Feel free to explore the projects and modify them
