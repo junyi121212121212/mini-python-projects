@@ -15,6 +15,7 @@ Simple mini projects that I have collected from the internet over the years. Thi
 - Python weather GUI
 - Simple Webscraping
 - Ball game with physics using Pygame
+- Face Recognition using openCV
 
 ---
 
@@ -40,3 +41,4 @@ To create a new environment using Anaconda Prompt:
 
 
 Feel free to explore the projects and modify them
+
