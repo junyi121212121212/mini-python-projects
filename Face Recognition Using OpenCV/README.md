@@ -18,7 +18,7 @@ Try out real-time face detection with your webcam using OpenCV’s Haar Cascade 
 Install dependencies:
 ```bash
 pip install opencv-python
-```
+``` 
 
 ## Usage
 
