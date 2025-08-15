@@ -16,6 +16,8 @@ Simple mini projects that I have collected from the internet over the years. Thi
 - Simple Webscraping
 - Ball game with physics using Pygame
 - Face Recognition using openCV
+- NASA Photo of the Day
+- Send messages on Whatsapp using Python
 
 ---
 
