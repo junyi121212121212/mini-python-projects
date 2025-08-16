@@ -19,6 +19,7 @@ Simple mini projects that I have collected from the internet over the years. Thi
 - NASA Photo of the Day
 - Send messages on Whatsapp using Python
 - Password Manager
+- Link Shortener
 
 ---
 
