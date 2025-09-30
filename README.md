@@ -20,7 +20,7 @@ Simple mini projects that I have collected from the internet over the years. Thi
 - Send messages on Whatsapp using Python
 - Password Manager
 - Link Shortener
-
+- Chatbot using Hugging Face
 ---
 
 ## 🚀 Setup Instructions
